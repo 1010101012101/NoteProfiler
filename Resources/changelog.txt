@@ -1,0 +1,33 @@
+Changelog:
+=========
+Version 1.0.5
+* Improved Image Database Viewer to include a thumbnail strip and a delete button for notes
+
+Version 1.0.4:
+* Fixed bug with "Save As" not working from menu
+* Fixed a whole lot of issues with the selection interface
+* Added "<Clear>" option to clear the author/type (if not set to another one, note will be removed from database).
+* Fixed an issue with the errorlogger (it didn't log enough information)
+
+Version 1.0.3:
+* Added databse viewer
+* Fixed a critical issue that caused images to be saved to the database with noise and coloration
+* Fixed some crashes related to loading information from the database
+* Fixed some freezes related to scanning pages and recognizing existing notes
+
+Version 1.0.2:
+* Database version upgraded from 1 to 2
+* The Authors database editor is now also sortable
+* Fixed a bug with the the database editor that caused new rows to jump to the top
+* User can now choose which columns to show in the database editor
+* Added a global error-catcher that lets the user save an error log and continue working
+
+
+Version 1.0.1:
+* More Keyboard Shortcuts!
+* Database version updraded from 0 to 1
+* Oh the Database has versions now.
+* Added mechanism to handle database upgrades, which adds the missing fields and lets the user backup first.
+* The "default" empty database will now be truely empty.
+* Fixed a bug at startup that would cause an unhandled exception when there's an author or note type with an empty name.
+* Note Types are now sortable (saves a hiddeen field in the database called "Sort").

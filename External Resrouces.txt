@@ -1,0 +1,19 @@
+﻿External Resources Used:
+=======================
+
+emgu CV: http://www.emgu.com (GNU Free Documentation License 1.2)
+	which uses:
+		ZedGraph: https://sourceforge.net/projects/zedgraph/ (LGPLv2 License)
+		OpenTK: http://www.opentk.com/ (License: http://www.opentk.com/project/license)
+
+Cyotek Imagebox: https://github.com/cyotek/Cyotek.Windows.Forms.ImageBox (MIT License)
+
+Fody: https://github.com/Fody/ (MIT License)
+
+Inno Setup by Jordan Russell: http://www.jrsoftware.org/isinfo.php (License: http://www.jrsoftware.org/files/is/license.txt)
+
+SQLite: https://www.sqlite.org/ (Public Domain: https://www.sqlite.org/copyright.html)
+
+Entity Framework by Microsoft: http://go.microsoft.com/fwlink/?LinkID=320540 (License: https://www.microsoft.com/web/webpi/eula/net_library_eula_enu.htm)
+
+ImageListView by Ozgur Ozcitak: https://www.codeproject.com/Articles/43265/ImageListView (License: Apache 2.0)
